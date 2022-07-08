@@ -1,5 +1,5 @@
 ---
-title: 解决警告 UserWarning： FixedFormatter should only be used together with FixedLocator|Python点点
+title: 解决警告 FixedFormatter should only be used together with FixedLocator|Python点点
 tags:
   - Python
   - Python3.9.7

@@ -102,9 +102,9 @@ theme: fluid
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  # - type: git
-  #   repo: git@github.com:LIEGU0317/liegu0317.github.io.git
-  #   branch: master
+  - type: git
+    repo: git@github.com:LIEGU0317/liegu0317.github.io.git
+    branch: master
   - type: git
     repo: git@gitee.com:liegu0317/liegu0317.git
     branch: master
